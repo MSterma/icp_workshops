@@ -1,4 +1,4 @@
-<script setup>
+-<script setup>
 import { ref } from 'vue';
 import { icp_workshops_backend } from 'declarations/icp_workshops_backend/index';
 let greeting = ref('');
